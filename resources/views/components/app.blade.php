@@ -1,5 +1,5 @@
 <!doctype html>
-<html data-theme="{{ $theme }}">
+<html data-theme="halloween">
 
 <head>
     <meta charset="utf-8">

@@ -1,6 +1,3 @@
-@php
-    $theme = App\models\Theme::first()->name;
-@endphp
 <!doctype html>
 <html data-theme="{{ $theme }}">
 
